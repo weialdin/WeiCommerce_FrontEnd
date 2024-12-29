@@ -1,6 +1,5 @@
 <h2>laravel-vue-ecommerce by Ahmad Aminudin</h2>
-
-![weicommerce](https://github.com/user-attachments/assets/e49a5cb0-21c9-4def-b4a5-042b0e936f05)
+<img src="https://github.com/user-attachments/assets/e49a5cb0-21c9-4def-b4a5-042b0e936f05" width=50% height=50% align="center">
 
 
 Kali ini saya mengembangkan sebuah website e-commerce menggunakan framework Laravel 11 dan Vue.js. Dengan kombinasi teknologi ini, website yang saya buat menjadi lebih modern, dinamis, dan interaktif. Proyek ini saya kerjakan untuk meningkatkan kemampuan dan pengalaman saya sebagai seorang full-stack developer yang fokus pada PHP Laravel dan Vue.js.
